@@ -18,7 +18,7 @@ Database exercises on SQL during Generation Brasil Bootcamp.
 <p>Faça um select que retorne os funcionaries com o salário maior do que 2000.</p>
 <p>Faça um select que retorne os funcionaries com o salário menor do que 2000.</p>
 <p>Ao término atualize um dado desta tabela através de uma query de atualização.</p>
-<p>salve as querys para cada uma dos requisitos o exercício em um arquivo .SQL ou texto.</p>
+
 
 # Atividade 2
 <p>Crie um banco de dados para um e commerce, onde o sistema trabalhará com as informações dos produtos deste ecommerce.</p>
@@ -27,7 +27,7 @@ Database exercises on SQL during Generation Brasil Bootcamp.
 <p>Faça um select que retorne os produtos com o valor maior do que 500.</p>
 <p>Faça um select que retorne os produtos com o valor menor do que 500.</p>
 <p>Ao término atualize um dado desta tabela através de uma query de atualização.</p>
-<p>salve as querys para cada uma dos requisitos o exercício em um arquivo .SQL ou texto.</p>
+
 
 # Atividade 3
 <p>Crie um banco de dados para um registro de uma escola, onde o sistema trabalhará com as informações dos estudantes deste registro dessa escola.</p>
@@ -36,4 +36,4 @@ Database exercises on SQL during Generation Brasil Bootcamp.
 <p>Faça um select que retorne o/as estudantes com a nota maior do que 7.</p>
 <p>Faça um select que retorne o/as estudantes com a nota menor do que 7.</p>
 <p>Ao término atualize um dado desta tabela através de uma query de atualização.</p>
-<p>salve as querys para cada uma dos requisitos o exercício em um arquivo .SQL ou texto.</p>
+
